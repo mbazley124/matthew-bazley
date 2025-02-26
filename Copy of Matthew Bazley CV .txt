@@ -1,0 +1,62 @@
+﻿Matthew Bazley
+King’s Cross, London | mbazley1.mb@gmail.com | 0770398949
+
+RESEARCH EXPERIENCE
+MSC RESEARCH PROJECT | SCHMACK LAB - FRANCIS CRICK INSTITUTE | 2023-2024
+A largely independent, self-contained project (under the guidance of a PhD student) on the effect of chemogenetic inhibition of striatal ChAT+ neurons on various performance metrics in an auditory detection task, as a readout of hallucination-like perception (repeated-measures design with injection and receptor controls)
+·  Presented my findings to the Crick Neurophysiology department (in addition to the standard poster and presentation session as part of the UCL course)
+·  Streamlined and optimised training on our low-throughput auditory detection (HALIP) task resulting in a decrease from roughly 3 to <2 months – this required meticulous record keeping of training progress and task parameters and consistently running daily behavioural sessions with mice (10am-6pm)
+·  Analysis of training progress, behavioural and psychometric data in MATLAB
+·  Basic wet lab work: making up batches of DCZ in DMSO/saline solution for injections; brain slice histology
+·  Daily intraperitoneal injections in mice, practiced and performed to a high standard
+·  Monitoring health, clinical signs and behaviour of 8 mice (especially vital due to complications from surgery and long-term water-restriction, which necessitated liaising with the BRF and vet). Recording procedures, weights and clinical changes on MCMS platform. PIL licence (A, B and C)
+·  Gained insight into the process and challenges of clinical research with psychiatric patients and the Prolific platform
+·  Placing orders for shared/personal items for the lab and liaising with suppliers and upheld the organisational standards of the lab
+                                                        
+EDUCATION
+MSC NEUROSCIENCE | UCL | 2022-2024                                                               · High 2:1 (68%) | Dissertation project (above) awarded first class        
+BSC BIOMEDICAL SCIENCES | UCL | 2019-2022
+·  High 2:1 (68%) | Dissertation/writing modules (75% and 68%)
+· ‘Early Development of Pain in Humans’, supervised by Prof. Maria Fitzgerald
+·  Won best lab technique presentation prize (PHOL0004)
+                                                        
+EXTRACURRICULAR        
+·  Neuroscience/science articles published in Pi Media, the largest UCL magazine, with one article selected for print        
+·  Produced information packs for volunteers at UCL and UCLH for a student-led blood donation initiative. I worked within a small team in its early stages, where I was also responsible for liaising with the student union to get approval for risk assessment documents and advertising        
+·  UCL Effective Altruism Society (2021-2022) - as Events Officer (and Welfare Officer) I helped organise fellowships, events and talks on topics ranging from biosecurity, rationality, cognitive bias, existential risk and AI alignment.
+·  Alongside my studies, I also took part in an intensive 6-month fellowship on Existential Risk, run by a Cambridge PhD student.
+·  Selected for two UCL PhD group mentorship programs (2021-22)
+        · Bortezomib-induced peripheral neuropathy: Weekly sessions on relevant papers and
+        laboratory techniques used in the pain field. My research specifically focused on the role of
+        ion channels, culminating in a 2,000-word report and presentation to the society
+        · A neuroscience journal club involving weekly group discussions of papers and
+        sessions on experimental techniques in neuroscience. I produced a review and
+        presented to the society on the effect of stress on adult neurogenesis. Since
+        then, I have remained in a regular neuroscience journal club of PhD students from a
+        diverse range of academic backgrounds
+· Genomics course at BioGrad diagnostics (2018) - to refine/practice PCR skills and introduction to using Primer-BLAST and the NCBI nucleotide databases
+IBSTOCK PLACE SCHOOL | 2007 -2017
+· AAA at A2 in Biology, Chemistry and Mathematics | 10 A* at IGCSE
+EMPLOYMENT
+SCIENCE MENTOR | RICHER EDUCATION | FEBRUARY 2019-PRESENT
+·  Worked full-time during holidays and delivered at least 200 one-hour engaging science sessions to groups of ~10 children aged 4-14
+·  Learned on the job how to explain complex ideas clearly, adapting to different ages and abilities
+·  Managed groups of young people in a learning environment
+·  Demonstrated reliability and organisational skills managing lesson plans and materials for
+science experiments/demonstrations
+                                                        
+SHOP FLOOR | BAYLEY & SAGE | AUGUST-DECEMBER 2017; JULY 2018 – MARCH 2019
+·  Bayley & Sage Wimbledon is a high-end food shop demanding a high standard of customer service
+·  Achieved highest score in Customer Service
+·  Proactive in organising product displays both outside and for special events
+·  Responsible for opening and closing shop, managing orders (liaising with suppliers and
+taking deliveries), cleaning the shop floor, restocking items and working as a cashier
+                                                        
+VOLUNTEERING / WORK EXPERIENCE
+SCIENCE-RELATED
+·  Volunteering at St. Heliers Hospital (Renal Ward - 6 months)
+·  Shadowed a GP in Newport (Wales)
+·  Work Experience at a Chemist (Wimbledon Ridgway)
+                                                        
+OTHER
+· Volunteering in Oxfam (6 months), reading with children with disabilities at Alton and Heathmere schools (4 months) and volunteering in slums with a local charity in Myanmar
