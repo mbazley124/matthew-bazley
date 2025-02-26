@@ -27,20 +27,17 @@ export default function Projects() {
         </div>
       </div>
 
-      <main className="max-w-5xl mx-auto py-16 px-4">
-        <section className="grid gap-8">
+      <main className="max-w-4xl mx-auto py-16 px-4">
+        <section className="grid gap-6">
           <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
             <CardHeader className="space-y-2">
-              <div className="flex gap-8">
+              <div className="flex gap-6">
                 <div className="flex-1">
-                  <CardTitle className="text-2xl font-bold hover:text-primary transition-colors">
+                  <CardTitle className="text-xl font-bold hover:text-primary transition-colors">
                     Chemogenetic inhibition of striatal cholinergic neurons on hallucination-like perception
                   </CardTitle>
                   <p className="text-muted-foreground mt-2">MSc Neuroscience Dissertation</p>
-                  <p className="text-muted-foreground leading-relaxed mt-4">
-                    My MSc dissertation exploring the role of striatal cholinergic neurons in hallucination-like perception through chemogenetic inhibition techniques. This research contributes to our understanding of the neural mechanisms underlying perceptual processing and psychiatric conditions.
-                  </p>
-                  <div className="mt-4">
+                  <div className="mt-3">
                     <a 
                       href="/Chemogenetic%20inhibition%20of%20striatal%20cholinergic%20neurons%20on%20hallucination-like%20perception%20-%20MB.pdf" 
                       target="_blank"
@@ -50,10 +47,10 @@ export default function Projects() {
                     </a>
                   </div>
                 </div>
-                <div className="w-96">
+                <div className="w-80">
                   <iframe 
-                    src="/Chemogenetic%20inhibition%20of%20striatal%20cholinergic%20neurons%20on%20hallucination-like%20perception%20-%20MB.pdf"
-                    className="w-full h-[300px] rounded-lg border"
+                    src="/Chemogenetic%20inhibition%20of%20striatal%20cholinergic%20neurons%20on%20hallucination-like%20perception%20-%20MB.pdf#view=FitH"
+                    className="w-full h-[250px] rounded-lg border"
                     title="Dissertation PDF"
                   />
                 </div>
@@ -63,16 +60,13 @@ export default function Projects() {
 
           <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
             <CardHeader className="space-y-2">
-              <div className="flex gap-8">
+              <div className="flex gap-6">
                 <div className="flex-1">
-                  <CardTitle className="text-2xl font-bold hover:text-primary transition-colors">
+                  <CardTitle className="text-xl font-bold hover:text-primary transition-colors">
                     Biosecurity, Pandemic Preparedness and the three Ps of Open Science
                   </CardTitle>
-                  <p className="text-muted-foreground mt-2">Research Article [work in progress]</p>
-                  <p className="text-muted-foreground leading-relaxed mt-4">
-                    An exploration of how open science practices intersect with biosecurity concerns and pandemic preparedness, examining the roles of preprints, peer review, and preregistration in modern scientific discourse.
-                  </p>
-                  <div className="mt-4">
+                  <p className="text-muted-foreground mt-2">Unpublished article [work in progress]</p>
+                  <div className="mt-3">
                     <a 
                       href="/biosecurity-paper.pdf"
                       target="_blank"
@@ -82,10 +76,10 @@ export default function Projects() {
                     </a>
                   </div>
                 </div>
-                <div className="w-96">
+                <div className="w-80">
                   <iframe 
                     src="/biosecurity-paper.pdf"
-                    className="w-full h-[300px] rounded-lg border"
+                    className="w-full h-[250px] rounded-lg border"
                     title="Biosecurity Article PDF"
                   />
                 </div>
@@ -95,16 +89,13 @@ export default function Projects() {
 
           <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
             <CardHeader className="space-y-2">
-              <div className="flex gap-8">
+              <div className="flex gap-6">
                 <div className="flex-1">
-                  <CardTitle className="text-2xl font-bold hover:text-primary transition-colors">
+                  <CardTitle className="text-xl font-bold hover:text-primary transition-colors">
                     Journal Publication Policies on Biosecurity and Dual-Use Research of Concern
                   </CardTitle>
-                  <p className="text-muted-foreground mt-2">Research Article</p>
-                  <p className="text-muted-foreground leading-relaxed mt-4">
-                    An analysis of how academic journals handle biosecurity concerns and dual-use research of concern (DURC) in their publication policies, examining the balance between open science and security considerations.
-                  </p>
-                  <div className="mt-4">
+                  <p className="text-muted-foreground mt-2">Unpublished article [work in progress]</p>
+                  <div className="mt-3">
                     <a 
                       href="/journal-policies.pdf"
                       target="_blank"
@@ -114,10 +105,10 @@ export default function Projects() {
                     </a>
                   </div>
                 </div>
-                <div className="w-96">
+                <div className="w-80">
                   <iframe 
                     src="/journal-policies.pdf"
-                    className="w-full h-[300px] rounded-lg border"
+                    className="w-full h-[250px] rounded-lg border"
                     title="Journal Policies PDF"
                   />
                 </div>
@@ -127,16 +118,13 @@ export default function Projects() {
 
           <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
             <CardHeader className="space-y-2">
-              <div className="flex gap-8">
+              <div className="flex gap-6">
                 <div className="flex-1">
-                  <CardTitle className="text-2xl font-bold hover:text-primary transition-colors">
+                  <CardTitle className="text-xl font-bold hover:text-primary transition-colors">
                     A dangerous bias
                   </CardTitle>
                   <p className="text-muted-foreground mt-2">Published in Pi Media | March 2020</p>
-                  <p className="text-muted-foreground leading-relaxed mt-4">
-                    An exploration of how under-representation in STEM can have significant consequences for our daily lives, examining issues from biomedical research to product design and artificial intelligence.
-                  </p>
-                  <div className="mt-4">
+                  <div className="mt-3">
                     <a 
                       href="https://uclpimedia.com/online/a-dangerous-bias" 
                       target="_blank"
@@ -146,11 +134,11 @@ export default function Projects() {
                     </a>
                   </div>
                 </div>
-                <div className="w-96">
+                <div className="w-80">
                   <img 
                     src="/pimedia-page-001.jpg"
                     alt="Article illustration showing gender bias in research"
-                    className="w-full h-[300px] rounded-lg object-cover"
+                    className="w-full h-[250px] rounded-lg object-cover"
                   />
                 </div>
               </div>
