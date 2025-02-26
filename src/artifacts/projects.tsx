@@ -1,6 +1,7 @@
 import { Card, CardHeader, CardTitle } from "@/components/ui/card";
 
 export default function Projects() {
+  console.log('Projects component rendering');
   return (
     <div className="min-h-screen bg-background">
       <header className="bg-card border-b">
