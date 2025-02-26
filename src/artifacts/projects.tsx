@@ -1,4 +1,5 @@
 import { Card, CardHeader, CardTitle } from "@/components/ui/card";
+import { Link } from 'react-router-dom';
 
 export default function Projects() {
   console.log('Projects component rendering');
@@ -14,14 +15,14 @@ export default function Projects() {
       </header>
 
       <div className="bg-card border-b sticky top-0 z-50">
-        <div className="max-w-5xl mx-auto px-4">
+        <div className="max-w-3xl mx-auto px-4">
           <div className="flex h-14 items-center space-x-8">
-            <a href="/" className="text-blue-500 hover:text-blue-600 font-medium">
+            <Link to="/" className="text-blue-500 hover:text-blue-600 font-medium">
               Home
-            </a>
-            <a href="/projects" className="text-blue-500 hover:text-blue-600 font-medium">
+            </Link>
+            <Link to="/projects" className="text-blue-500 hover:text-blue-600 font-medium">
               Projects
-            </a>
+            </Link>
           </div>
         </div>
       </div>

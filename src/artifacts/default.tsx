@@ -1,10 +1,11 @@
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
+import { Link } from 'react-router-dom';
 
 export default function App() {
   return (
     <div className="min-h-screen bg-background">
       <header className="bg-card border-b">
-        <div className="max-w-5xl mx-auto py-12 px-4">
+        <div className="max-w-3xl mx-auto py-12 px-4">
           <div className="flex justify-between items-start">
             <div className="flex-1">
               <h1 className="text-5xl font-bold tracking-tight text-blue-500">Matthew Bazley</h1>
@@ -16,7 +17,7 @@ export default function App() {
                   A UCL Neuroscience graduate with research experience at the Schmack Lab in the Francis Crick Institute, where I conducted a first-class project using chemogenetic techniques. My project focused on investigating the effect of inhibiting striatal cholinergic neurons on readouts of hallucination-like perception in trained mice during a behavioural task, where I developed experimental management and data analysis skills.
                 </p>
                 <p>
-                  Beyond research, I have an interest in science communication and broader issues relating to science. I have published articles in UCL's Pi Media magazine as an undergrad and am currently working on reviewing research on open science and publishing practices, with a focus on biosecurity and science policy implications.
+                  I published science articles in UCL's Pi Media magazine as an undergrad and I'm currently writing pieces on open science and publishing practices, with a focus on biosecurity and science policy implications.
                 </p>
               </div>
             </div>
@@ -32,19 +33,19 @@ export default function App() {
       </header>
 
       <div className="bg-card border-b sticky top-0 z-50">
-        <div className="max-w-5xl mx-auto px-4">
+        <div className="max-w-3xl mx-auto px-4">
           <div className="flex h-14 items-center space-x-8">
-            <a href="/" className="text-blue-500 hover:text-blue-600 font-medium">
+            <Link to="/" className="text-blue-500 hover:text-blue-600 font-medium">
               Home
-            </a>
-            <a href="/projects" className="text-blue-500 hover:text-blue-600 font-medium">
+            </Link>
+            <Link to="/projects" className="text-blue-500 hover:text-blue-600 font-medium">
               Projects
-            </a>
+            </Link>
           </div>
         </div>
       </div>
 
-      <main className="max-w-5xl mx-auto py-16 px-4">
+      <main className="max-w-3xl mx-auto py-16 px-4">
         <section className="grid gap-8">
           <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
             <CardHeader className="space-y-2">
@@ -87,7 +88,7 @@ export default function App() {
       </main>
 
       <footer className="bg-card border-t mt-16">
-        <div className="max-w-5xl mx-auto py-8 px-4 text-center text-muted-foreground">
+        <div className="max-w-3xl mx-auto py-8 px-4 text-center text-muted-foreground">
           © 2025 Neural Narratives by Matthew Bazley. All rights reserved.
         </div>
       </footer>
