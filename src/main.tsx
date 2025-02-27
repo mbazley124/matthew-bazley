@@ -1,20 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { RouterProvider, createHashRouter } from 'react-router-dom';
+import { RouterProvider, createBrowserRouter } from 'react-router-dom';
 import routes from 'virtual:generated-pages-react';
 import Layout from './components/layout';
 import DefaultPage from './artifacts/default';
 import Projects from './artifacts/projects';
 import './index.css';
 
-const router = createHashRouter([
+const router = createBrowserRouter([
   {
-    path: '/',
-    element: <Layout><DefaultPage /></Layout>,
+    path: "/",
+    element: <Layout><Projects /></Layout>,
   },
   {
-    path: '/projects',
-    element: <Layout><Projects /></Layout>,
+    path: "/about",
+    element: <Layout><DefaultPage /></Layout>,
   },
   ...routes.map((route) => ({
     ...route,
