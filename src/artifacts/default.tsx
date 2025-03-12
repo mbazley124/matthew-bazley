@@ -35,7 +35,7 @@ export default function App() {
                   A UCL Neuroscience graduate with research experience at the Schmack Lab in the Francis Crick Institute, where I conducted a first-class project using chemogenetic techniques. My project focused on investigating the effect of inhibiting striatal cholinergic neurons on readouts of hallucination-like perception in trained mice during a behavioural task, where I developed experimental management and data analysis skills.
                 </p>
                 <p>
-                  I published science articles in UCL's Pi Media magazine as an undergrad and I'm currently writing pieces on open science and publishing practices, with a focus on biosecurity and science policy implications.
+                  I'm looking to build a career in clinical research to directly contribute to improving health outcomes. I've also maintained a side focus on science communication, publishing articles in UCL's Pi Media magazine as an undergrad and now writing pieces on open science and publishing practices, with a focus on biosecurity and science policy implications.
                 </p>
               </div>
             </div>
