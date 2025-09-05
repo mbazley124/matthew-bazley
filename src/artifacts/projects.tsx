@@ -34,39 +34,6 @@ export default function Projects() {
               <div className="flex flex-col md:flex-row gap-3 md:gap-6">
                 <div className="flex-1 flex flex-col justify-center">
                   <CardTitle className="text-sm md:text-xl font-bold hover:text-primary transition-colors">
-                    Chemogenetic inhibition of striatal cholinergic neurons on hallucination-like perception
-                  </CardTitle>
-                  <p className="text-xs md:text-base text-muted-foreground mt-1 md:mt-2">MSc Neuroscience Dissertation</p>
-                  <div className="mt-2 md:mt-3">
-                    <a 
-                      href="/Chemogenetic%20inhibition%20of%20striatal%20cholinergic%20neurons%20on%20hallucination-like%20perception%20-%20MB.pdf" 
-                      target="_blank"
-                      className="text-xs md:text-base text-primary hover:text-primary/80 font-medium transition-colors"
-                    >
-                      Download PDF →
-                    </a>
-                  </div>
-                </div>
-                <div className="w-full md:w-80">
-                  <div className="hidden md:block">
-                    <object 
-                      data="/Chemogenetic%20inhibition%20of%20striatal%20cholinergic%20neurons%20on%20hallucination-like%20perception%20-%20MB.pdf#zoom=50&view=FitH"
-                      type="application/pdf"
-                      className="w-full h-[250px] rounded-lg border"
-                    >
-                      <p>PDF cannot be displayed</p>
-                    </object>
-                  </div>
-                </div>
-              </div>
-            </CardHeader>
-          </Card>
-
-          <Card className="overflow-hidden hover:shadow-lg transition-shadow duration-300">
-            <CardHeader className="pt-4 pb-2 md:py-6">
-              <div className="flex flex-col md:flex-row gap-3 md:gap-6">
-                <div className="flex-1 flex flex-col justify-center">
-                  <CardTitle className="text-sm md:text-xl font-bold hover:text-primary transition-colors">
                     Biosecurity, Pandemic Preparedness and the three Ps of Open Science
                   </CardTitle>
                   <p className="text-xs md:text-base text-muted-foreground mt-1 md:mt-2">Unpublished article [work in progress]</p>
